@@ -3,7 +3,7 @@
 <p align="center"><img src="https://socialify.git.ci/mazharulshameem/Manual-Testing-On-Patient-Portal/image?issues=1&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" alt="Manual-Testing-On-Patient-Portal" width="640" height="320" />" /></p>
 
 The manual testing project for [Patient Portal](https://mean.stagingsdei.com:9157/patient/signup) of
-Online Doctor Appointment Booking Systemregistration and login involved creating a  test case
+Online Doctor Appointment Booking System registration and login involved creating a  test case
 and bug reports. Test cases checked functionality, usability, and security. Bug reports detailed defects, their severity, and steps to reproduce them. Overall, the project aimed for quality and reliability.
   
   
